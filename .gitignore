@@ -1,0 +1,8 @@
+compiled/*
+compiled/tests/*
+
+!compiled/tests/
+!.gitkeep
+
+.DS_Store
+main.c
